@@ -1,0 +1,21 @@
+User_ID,customer_name,registered_city,account_age_days,kyc_status,risk_segment
+1001,Rahul Sharma,Mumbai,500,Full KYC,Low
+1002,Amit Jain,Pune,45,Min KYC,Medium
+1003,Neha Patil,Delhi,900,Full KYC,Low
+1004,Vikram Singh,Bangalore,10,Min KYC,High
+1005,Sneha Kulkarni,Nagpur,320,Full KYC,Low
+1006,Arjun Mehta,Hyderabad,150,Full KYC,Medium
+1007,Priya Desai,Ahmedabad,720,Full KYC,Low
+1008,Rohan Gupta,Chennai,60,Min KYC,Medium
+1009,Karan Verma,Kolkata,40,Min KYC,High
+1010,Anjali Nair,Kochi,850,Full KYC,Low
+1011,Manish Yadav,Lucknow,200,Full KYC,Medium
+1012,Pooja Shah,Surat,130,Min KYC,Medium
+1013,Siddharth Roy,Jaipur,980,Full KYC,Low
+1014,Meera Joshi,Indore,365,Full KYC,Low
+1015,Aditya Rao,Goa,15,Min KYC,High
+1016,Nisha Kapoor,Chandigarh,430,Full KYC,Low
+1017,Deepak Patil,Nashik,220,Full KYC,Medium
+1018,Ayesha Khan,Bhopal,95,Min KYC,Medium
+1019,Harsh Vora,Vadodara,600,Full KYC,Low
+1020,Tanvi Iyer,Coimbatore,75,Min KYC,Medium
